@@ -92,6 +92,11 @@ client.on('message', msg => {
 });
 
 
+client.on('message', msg => {
+  if (msg.content === 'شكرا') {
+    msg.reply('**``آإلعفو قـ♥̨̥̬لبـ♥̨̥̬ي``**');
+  }
+});
 
 client.on('ready', () => {
    console.log(`----------------`);

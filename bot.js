@@ -22,13 +22,13 @@ client.on('message', msg => {
 
 client.on('message', msg => {
   if (msg.content === 'رابط') {
-    msg.reply('** ``https://discord.gg/2UJV6Hp``**');
+    msg.reply('** ``https://discord.gg/YgEyRQY``**');
   }
 });
 
 client.on('message', msg => {
   if (msg.content === 'الرابط') {
-    msg.reply('** ``https://discord.gg/2UJV6Hp``**');
+    msg.reply('** ``https://discord.gg/YgEyRQY``**');
   }
 });
 

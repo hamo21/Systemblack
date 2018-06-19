@@ -36,8 +36,8 @@ client.on('message', msg => {
     
 client.on('message', message => {
      if (message.content === "رابط") {
-message.author.send("***WELCOME TO ZOMBIE***" + `  **
-https://discord.gg/2UJV6Hp
+message.author.send("***WELCOME TO ZOMBIE SHOP***" + `  **
+https://discord.gg/sDnMWNT
 **`);
     }
 });      
